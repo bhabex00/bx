@@ -164,7 +164,7 @@ h1 {
   font-size: 7rem;
   font-weight: 500 700;
   letter-spacing: -2px;
-  text-transform: capitalize;
+  text-transform: lowercase;
   z-index: -1;
 }
 .logo {
